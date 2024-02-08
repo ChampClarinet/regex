@@ -1,0 +1,9 @@
+{
+  "name": "@cantabile/regex",
+  "version": "1.0.0",
+  "description": "My regular expression",
+  "main": "index.js",
+  "homepage": "https://github.com/ChampClarinet/regex",
+  "author": "Wallop Opasakhun (https://github.com/champclarinet)",
+  "license": "ISC"
+}
